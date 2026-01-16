@@ -157,13 +157,4 @@ A análise é conduzida em etapas dentro do `main.ipynb`:
 
 ---
 
-## Possíveis melhorias
-
-- Adicionar um modelo de Machine Learning para prever cancelamento (churn);
-- Criar dashboards interativos (por exemplo, com Plotly Dash ou Power BI);
-- Incluir um dicionário de dados explicando cada coluna da base;
-- Automatizar a atualização da análise com novas bases de clientes.
-
----
-
 Projeto desenvolvido para prática de **Análise de Dados com Python** e obtenção de **insights acionáveis** sobre cancelamento de clientes.
